@@ -2,7 +2,7 @@
 Server with PHP Laravel
 
 Clinet with Angular
-## configuration
+## Configuration
 Create MySQL DB called 'books'
 
 
